@@ -15,10 +15,7 @@ babel: se encarga de solucionar los problemas de compatibilidades
 
 npm:  hay muchas librerias de codigo abierto , donde ya alguien codifico algo y lo podes usar
 
-
-
-
-
-
-
 i can use: es una paguina para ver que compratibilidad tiene con las verciones de los navegadores
+ 
+es una libreria nodemon: nos ayuda a que los cambios se agregen al servidor sin  -
+yarn add nodemon
