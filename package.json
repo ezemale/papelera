@@ -6,6 +6,9 @@
   "author": "Ezequiel Maleplate <maleplateeze@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "devDependencies": {
     "nodemon": "^3.1.0"
   }
