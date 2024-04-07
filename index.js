@@ -8,6 +8,8 @@ function requestController() {
 //configurar nuestro server
 const server = http.createServer(requestController)
 
+cosnt PORT = process.env.PORT
+
 server.listen(40000) 
 
 // const http = require("http")
