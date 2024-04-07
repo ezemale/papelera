@@ -1,9 +1,14 @@
 const http = require("http")
 
 function requestController() {
-    console.log("recibimos una request")
+    //logica de nuestra funcion
+    console.log("recibimos una reques!!")
 };
 
+//configurar nuestro server
 const server = http.createServer(requestController)
 
-server.listen(4000) 
+server.listen(40000) 
+
+// const http = require("http")
+
